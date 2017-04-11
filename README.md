@@ -1,2 +1,2 @@
-# DynAzure
+# Dynazaur
 Azure library for Dynamo
